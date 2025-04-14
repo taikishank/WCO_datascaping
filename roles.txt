@@ -1,0 +1,18 @@
+All for different websites and their respective information held
+https://www.sports-reference.com/cbb/seasons/men/2025.html
+
+
+1. Data cleaner
+Normalie the raw scraped text; ex remove \n, \t, etc. 
+
+2. Data Designer
+Define the JSON fields, field naming conventions, and overall structure
+
+3. Data Mapping
+Map the HTML scraped elements into the JSON fields. 
+
+4. Export/Serializing
+Turn mapped JSON outputs into backend team's desired output form
+
+5. Consistency, quality, test cases
+Catch edge cases
